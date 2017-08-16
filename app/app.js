@@ -31,7 +31,7 @@ class MyApp {
 
         this.pages = [
             {title: 'Welcome', component: WelcomePage, icon: "bookmark"},
-            {title: 'Flights', component: PropertyListPage, icon: "home"},
+            {title: 'Flights', component: PropertyListPage, icon: "plane"},
             {title: 'Pilots', component: BrokerListPage, icon: "people"},
             {title: 'Favorites', component: FavoriteListPage, icon: "star"}
         ];
