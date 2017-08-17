@@ -1,10 +1,10 @@
 {
-  "name": "dreamhouse-web-app",
-  "description": "DreamHouse Web App",
+  "name": "Drone-Booking-Web-App",
+  "description": "Drone Booking Web App",
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/dreamhouseapp/dreamhouse-web-app",
+  "repository": "https://github.com/contra-bit/flybyus-web-app",
   "addons": [
     "heroku-postgresql"
   ]
